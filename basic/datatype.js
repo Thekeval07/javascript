@@ -33,3 +33,6 @@ console.log("Object:" , person);
 console.log("Array:" , color);
 
 
+let car = 
+
+console.log(typeof car);
